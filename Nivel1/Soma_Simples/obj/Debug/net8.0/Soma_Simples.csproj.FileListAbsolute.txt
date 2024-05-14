@@ -1,0 +1,15 @@
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.AssemblyInfoInputs.cache
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.AssemblyInfo.cs
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.csproj.CoreCompileInputs.cache
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.sourcelink.json
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\bin\Debug\net8.0\Soma_Simples.exe
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\bin\Debug\net8.0\Soma_Simples.deps.json
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\bin\Debug\net8.0\Soma_Simples.runtimeconfig.json
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\bin\Debug\net8.0\Soma_Simples.dll
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\bin\Debug\net8.0\Soma_Simples.pdb
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.dll
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\refint\Soma_Simples.dll
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.pdb
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\Soma_Simples.genruntimeconfig.cache
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel1\Soma_Simples\obj\Debug\net8.0\ref\Soma_Simples.dll

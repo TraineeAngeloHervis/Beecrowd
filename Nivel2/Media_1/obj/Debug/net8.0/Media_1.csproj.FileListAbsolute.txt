@@ -1,0 +1,15 @@
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\bin\Debug\net8.0\Media_1.exe
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\bin\Debug\net8.0\Media_1.deps.json
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\bin\Debug\net8.0\Media_1.runtimeconfig.json
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\bin\Debug\net8.0\Media_1.dll
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\bin\Debug\net8.0\Media_1.pdb
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.AssemblyInfoInputs.cache
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.AssemblyInfo.cs
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.csproj.CoreCompileInputs.cache
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.sourcelink.json
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.dll
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\refint\Media_1.dll
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.pdb
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\Media_1.genruntimeconfig.cache
+C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel2\Media_1\obj\Debug\net8.0\ref\Media_1.dll

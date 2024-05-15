@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "OajyzkyZBAg=",
+  "dgSpecHash": "PL4tMZZAZOY=",
   "success": true,
   "projectFilePath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\Nivel2\\Media_1\\Media_1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit\\2.8.0\\xunit.2.8.0.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.analyzers\\1.13.0\\xunit.analyzers.1.13.0.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.assert\\2.8.0\\xunit.assert.2.8.0.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.core\\2.8.0\\xunit.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.extensibility.core\\2.8.0\\xunit.extensibility.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512",
+    "C:\\Users\\angelo.hervis\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.0\\xunit.runner.visualstudio.2.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,3 @@
-using System.Reflection;
 using Xunit;
 
 public class SomaTest
@@ -7,7 +6,7 @@ public class SomaTest
     public void TesteSoma()
     {
         //Arrange
-        Soma soma = new Soma();
+        Soma soma = new();
 
         //Act
         int resultado = soma.Somar(30, 10);

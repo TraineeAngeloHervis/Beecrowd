@@ -14,20 +14,3 @@ MediaPonderada media = new();
 double resultado = media.TirarMediaPonderada(valorA, valorB, pesoA, pesoB);
 string resultadoFormatado = resultado.ToString("0.#####", CultureInfo.InvariantCulture);
 Console.WriteLine("MEDIA = " + resultadoFormatado);
-
-if(!double.TryParse(Console.ReadLine(), out double valorC)) {
-    Console.WriteLine("Digite um valor válido");
-    return;
-}
-
-try
-{
-    double resultado = media.TirarMediaPonderada(valorA, valorB, pesoA, pesoB);
-    string resultadoFormatado = resultado.ToString("0.#####", CultureInfo.InvariantCulture);
-    Console.WriteLine("MEDIA = " + resultadoFormatado);
-}
-catch (System.Exception)
-{
-    
-    throw;
-}

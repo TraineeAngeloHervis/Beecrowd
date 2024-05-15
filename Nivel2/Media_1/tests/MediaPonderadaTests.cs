@@ -14,7 +14,5 @@ public class MediaPonderadaTests {
         //Assert
         Assert.Equal("4.54545", resultadoFormatado);
     }
-
-    [Fact]
     
 }

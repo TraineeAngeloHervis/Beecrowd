@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Soma_Simples")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Calculo_Simples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eded84a66f183b43a310970b41b002b7206cc004")]
-[assembly: System.Reflection.AssemblyProductAttribute("Soma_Simples")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Soma_Simples")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ff79a0881c7a03c681e1c6dcca5c205d7026057")]
+[assembly: System.Reflection.AssemblyProductAttribute("Calculo_Simples")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Calculo_Simples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -3,7 +3,10 @@
 //Assuma que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
 using System.Globalization;
 
-double valorA, valorB, pesoA = 3.5, pesoB = 7.5;
+double valorA,
+    valorB,
+    pesoA = 3.5,
+    pesoB = 7.5;
 
 Console.WriteLine("Digite o primeiro valor: ");
 valorA = double.Parse(Console.ReadLine());

@@ -1,9 +1,9 @@
 using Xunit;
 
-public class SomaTest
+public class SomaTests
 {
     [Fact]
-    public void TesteSoma()
+    public void Soma_QuandoValoresValidos_DeveRetornarSoma()
     {
         //Arrange
         Soma soma = new();

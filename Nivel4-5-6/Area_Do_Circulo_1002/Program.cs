@@ -11,16 +11,3 @@ raio = double.Parse(Console.ReadLine(), CultureInfo.CreateSpecificCulture("en-US
 CalculoArea calculo = new();
 double area = calculo.CalcularArea(raio);
 Console.WriteLine("A=" + area.ToString("F4", CultureInfo.CreateSpecificCulture("en-US")));
-
-
-
-
-
-
-
-
-
-
-
-
-

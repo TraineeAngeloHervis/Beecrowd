@@ -38,8 +38,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:03:45.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T15:03:45.839Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "HelloWorld.cs",
               "ToolTip": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1000_Hello_World\\HelloWorld.cs",
               "RelativeToolTip": "HelloWorld.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T14:52:47.935Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "tests\\HelloWorldTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:49:50.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T14:49:50.997Z"
             }
           ]
         }

@@ -4,24 +4,24 @@
 using System;
 using System.Globalization;
 
-string valorA,
+double valorA,
     valorB,
     pesoA,
     pesoB;
 
 Console.WriteLine("Digite o peso da 1° Nota: ");
-pesoA = (Console.ReadLine());
+pesoA = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Digite a 1° Nota: ");
-valorA = (Console.ReadLine());
+valorA = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Digite o peso da 2° Nota: ");
-pesoB = (Console.ReadLine());
+pesoB = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Digite a 2° Nota: ");
-valorB = (Console.ReadLine());
+valorB = double.Parse(Console.ReadLine());
 
 MediaPonderada media = new();
 
-string resultado = media.TirarMediaPonderada(valorA, valorB, pesoA, pesoB);
-Console.WriteLine("MEDIA = " + resultado);
+double resultado = media.TirarMediaPonderada(valorA, valorB, pesoA, pesoB);
+Console.WriteLine("MEDIA = " + resultado.ToString("F5", CultureInfo.InvariantCulture));

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18a98474-72dc-4713-ab54-62bd26dce302" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Beecrowd/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/1000_Hello_World/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/1000_Hello_World/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/1000_Hello_World/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/1000_Hello_World/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/1000_Hello_World/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/1000_Hello_World/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/1000_hello_world.metadata.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/1000_hello_world.metadata.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/1000_hello_world.projects.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/1000_hello_world.projects.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1000_Hello_World.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/1000_Hello_World.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/1000_Hello_World.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/1000_Hello_World.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/1000_Hello_World.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/1000_Hello_World.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/1003_Soma_Simples/FileContentIndex/624cd9c0-af67-4fc4-a5e5-9e7606767789.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/1003_Soma_Simples/FileContentIndex/ba193b98-782b-4904-971b-1886d2ac19c3.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/1003_Soma_Simples/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/1003_Soma_Simples/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/1003_Soma_Simples/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/1003_Soma_Simples/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Debug/net8.0/Soma_Simples.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Debug/net8.0/Soma_Simples.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Debug/net8.0/Soma_Simples.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Debug/net8.0/Soma_Simples.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Release/net8.0/Soma_Simples.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Release/net8.0/Soma_Simples.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Release/net8.0/Soma_Simples.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/obj/Release/net8.0/Soma_Simples.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1003_Soma_Simples/tests/SomaTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../1003_Soma_Simples/tests/SomaTests.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AngeloHervis&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TraineeAngeloHervis/Beecrowd.git&quot;,
+    &quot;accountId&quot;: &quot;942b4647-50dd-4088-a95a-d21e00dfa7d4&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/087e15321bb712ef6fe8b0ba6f8bd12facf92629/src/libraries/System.Private.CoreLib/src/System/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/angelo.hervis/Documents/GitHub/Beecrowd/1000_Hello_World/obj/Debug/net8.0/1000_Hello_World.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gmnalM1bDv4Lf8mRcnQ81EkXWe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\angelo.hervis\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\angelo.hervis\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\angelo.hervis\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18a98474-72dc-4713-ab54-62bd26dce302" name="Changes" comment="" />
+      <created>1716311685640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716311685640</updated>
+      <workItem from="1716311686874" duration="166000" />
+      <workItem from="1716311879365" duration="100000" />
+      <workItem from="1716313801087" duration="2421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

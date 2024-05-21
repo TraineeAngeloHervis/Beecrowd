@@ -13,9 +13,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculo_Simples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream:Nivel1-2-3/Calculo_Simples_1010/obj/Debug/net8.0/Calculo_Simples.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30b0e19815719b83254145fb0182e6c8a474d56c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculo_Simples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculo_Simples")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a009b26cfa9d942de9b9ec072d4e1b2c3a1b20d6")]
+[assembly: System.Reflection.AssemblyProductAttribute("1001_Extremamente_Basico")]
+[assembly: System.Reflection.AssemblyTitleAttribute("1001_Extremamente_Basico")]
+>>>>>>> Stashed changes:1001_Extremamente_Basico/obj/Debug/net8.0/1001_Extremamente_Basico.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

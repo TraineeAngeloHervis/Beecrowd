@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using Xunit;
 
-public class MediaPonderadaTests
+public class MediaTests
 {
     [Fact]
     public void TirarMediaPonderada_QuandoValoresValidos_DeveRetornarMedia()

@@ -1,8 +1,14 @@
-﻿Console.WriteLine("Digite sua Frase: ");
+﻿string frase;
 
-string frase = Console.ReadLine();
+Console.WriteLine("Digite sua Frase: (Hello World!)");
+frase = Console.ReadLine();
 
-if (frase == "Hello World!")
+
+HelloWorld helloWorld = new HelloWorld();
+
+var fraseEstaCorreta = helloWorld.GetHelloWorld(frase);
+
+if (fraseEstaCorreta)
 {
     Console.WriteLine("Você digitou a frase correta!");
 }

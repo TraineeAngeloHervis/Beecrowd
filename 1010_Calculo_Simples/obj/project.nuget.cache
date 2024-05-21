@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2nWFzMNNIXg=",
+  "dgSpecHash": "nevlrbanRjo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\Nivel3\\Calculo_Simples\\Calculo_Simples.csproj",
+  "projectFilePath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1010_Calculo_Simples\\Calculo_Simples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angelo.hervis\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\angelo.hervis\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",

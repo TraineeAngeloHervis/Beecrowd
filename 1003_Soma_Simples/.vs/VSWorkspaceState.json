@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Nivel1-2-3",
-    "\\Nivel4-5-6"
+    "\\tests"
   ],
-  "SelectedNode": "\\Nivel1-2-3",
+  "SelectedNode": "\\tests\\SomaTests.cs",
   "PreviewInSolutionExplorer": false
 }

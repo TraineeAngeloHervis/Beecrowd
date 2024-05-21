@@ -1,32 +1,19 @@
-﻿using System;
-using NUnit.Framework;
+using Xunit;
 
 public class HelloWorldTests
 {
-    [Test]
-    public void HelloWorld_QuandoMensagemHelloWorld_DeveRetornarFraseCorreta()
+    [Fact]
+    public void HelloWorld_QuandoFraseCorreta_DeveRetornarTrue()
     {
         // Arrange
-        HelloWorld frase = new HelloWorld();
+        HelloWorld helloWorld = new HelloWorld();
+        string fraseEsperada = "Hello World!";
 
         // Act
-        string resultado = frase.GetHelloWorld();
+        bool fraseEstaCorreta = helloWorld.GetHelloWorld(fraseEsperada);
 
         // Assert
-        Assert.AreEqual("Hello World", resultado);
-    }
-
-    [Test]
-    public void HelloWorld_QuandoMensagemDiferenteDeHelloWorld_DeveRetornarFraseErrada()
-    {
-        // Arrange
-        HelloWorld frase = new HelloWorld();
-
-        // Act
-        string resultado = frase.GetHelloWorld();
-
-        // Assert
-        Assert.NotEqual("Hello World", resultado);
+        Assert.True(fraseEstaCorreta);
     }
 
 }

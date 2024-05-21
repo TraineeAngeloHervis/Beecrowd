@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Soma_Simples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac8154ae6890c385cf34b3c0e393221e45e2335f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67af2c13d246aa0b09ff6319fc1aec20275aece2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Soma_Simples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Soma_Simples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj": {}
+    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj": {
+    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj",
+        "projectUniqueName": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj",
         "projectName": "1001_Extremamente_Basico",
-        "projectPath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj",
-        "packagesPath": "C:\\Users\\angelo.hervis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\obj\\",
+        "projectPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\1001_Extremamente_Basico.csproj",
+        "packagesPath": "C:\\Users\\keity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1001_Extremamente_Basico\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\angelo.hervis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\keity\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

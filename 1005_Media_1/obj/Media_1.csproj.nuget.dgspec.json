@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj": {}
+    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj": {
+    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj",
+        "projectUniqueName": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj",
         "projectName": "Media_1",
-        "projectPath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj",
-        "packagesPath": "C:\\Users\\angelo.hervis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angelo.hervis\\Documents\\GitHub\\Beecrowd\\1005_Media_1\\obj\\",
+        "projectPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1005_Media_1\\Media_1.csproj",
+        "packagesPath": "C:\\Users\\keity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1005_Media_1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\angelo.hervis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\keity\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

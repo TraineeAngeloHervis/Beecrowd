@@ -14,21 +14,10 @@ public class VendaPecaTests
         int contPeca2 = 2;
 
         // Act
-        string resultado = string.Empty;
-        try
-        {
-            resultado = valores.DefinirValor(valorPeca1, valorPeca2, contPeca1, contPeca2).ToString("0.00", CultureInfo.InvariantCulture);
-        }
-        catch (FormatException e)
-        {
-            throw new System.Exception (e.Message);
-        }
-        catch (ArgumentException e)
-        {
-            throw new System.Exception(e.Message);
-        }
+        float resultado = valores.DefinirValor(valorPeca1, valorPeca2, contPeca1, contPeca2);
+        
 
         // Assert
-        Assert.Equal("15.50", resultado);
+        Assert.Equal("15.50", resultado.ToString("F2", CultureInfo.InvariantCulture));
     }
 }

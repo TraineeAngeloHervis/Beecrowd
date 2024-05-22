@@ -1,4 +1,9 @@
-﻿Console.WriteLine("Qual o nome do colaborador? ");
+﻿// Faça um programa que leia o nome de um vendedor, o total de vendas efetuadas por ele no mês (em dinheiro),
+// Seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário.
+// Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas,
+// Informar o total a receber no final do mês, com duas casas decimais.
+
+Console.WriteLine("Qual o nome do colaborador? ");
 string nome = Console.ReadLine();
 
 Console.WriteLine("Qual o valor da hora do colaborador? ");

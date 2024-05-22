@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\Calculo_Simples.csproj": {}
+    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\1010_Calculo_Simples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\Calculo_Simples.csproj": {
+    "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\1010_Calculo_Simples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\Calculo_Simples.csproj",
-        "projectName": "Calculo_Simples",
-        "projectPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\Calculo_Simples.csproj",
+        "projectUniqueName": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\1010_Calculo_Simples.csproj",
+        "projectName": "1010_Calculo_Simples",
+        "projectPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\1010_Calculo_Simples.csproj",
         "packagesPath": "C:\\Users\\keity\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\keity\\OneDrive\\Documentos\\GitHub\\Beecrowd\\1010_Calculo_Simples\\obj\\",
         "projectStyle": "PackageReference",

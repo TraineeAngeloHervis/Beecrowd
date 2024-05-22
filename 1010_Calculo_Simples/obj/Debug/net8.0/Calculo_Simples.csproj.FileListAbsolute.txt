@@ -98,3 +98,11 @@ C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel3\Calculo_Simples\obj\Debu
 C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel3\Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.pdb
 C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel3\Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.genruntimeconfig.cache
 C:\Users\angelo.hervis\Documents\GitHub\Beecrowd\Nivel3\Calculo_Simples\obj\Debug\net8.0\ref\Calculo_Simples.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.csproj.AssemblyReference.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.AssemblyInfoInputs.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.AssemblyInfo.cs
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.csproj.CoreCompileInputs.cache
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.sourcelink.json
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.dll
+C:\Users\keity\OneDrive\Documentos\GitHub\Beecrowd\1010_Calculo_Simples\obj\Debug\net8.0\Calculo_Simples.pdb

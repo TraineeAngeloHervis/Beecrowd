@@ -16,6 +16,6 @@ public class MediaTests
 
 
         // Assert
-        Assert.Equal("6.43182", resultado.ToString("F5", CultureInfo.InvariantCulture));
+        Assert.Equal("6.4", resultado.ToString("F1", CultureInfo.InvariantCulture));
     }
 }

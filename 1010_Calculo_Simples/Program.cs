@@ -1,32 +1,22 @@
-﻿//Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1
-//o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2.
-//Após, calcule e mostre o valor a ser pago.
+﻿// Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1
+// o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2.
+// Após, calcule e mostre o valor a ser pago.
+
 using System.Globalization;
 
-int IdPeca1,
-    IdPeca2,
-    contPeca1,
-    contPeca2;
-float valorPeca1,
-    valorPeca2;
+Console.WriteLine("Digite o código da 1ª peça, quantas unidades e o valor unitário (Ex: 10 2 5.50): ");
+string[] peca1 = Console.ReadLine().Split(' ');
 
-Console.WriteLine("Digite o código da 1ª peça: ");
-IdPeca1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite o código da 2ª peça, quantas unidades e o valor unitário (Ex: 10 2 5.50): ");
+string[] peca2 = Console.ReadLine().Split(' ');
 
-Console.WriteLine("Quantas unidades serão compradas da 1ª peça? ");
-contPeca1 = int.Parse(Console.ReadLine());
+int codPeca1 = int.Parse(peca1[0]);
+int contPeca1 = int.Parse(peca1[1]);
+float valorPeca1 = float.Parse(peca1[2], CultureInfo.InvariantCulture);
+int codPeca2 = int.Parse(peca2[0]);
+int contPeca2 = int.Parse(peca2[1]);
+float valorPeca2 = float.Parse(peca2[2], CultureInfo.InvariantCulture);
 
-Console.WriteLine("Digite o valor unitário da 1ª peça: ");
-valorPeca1 = float.Parse(Console.ReadLine());
-
-Console.WriteLine("Digite o código da 2ª peça: ");
-IdPeca2 = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Quantas unidades serão compradas da 2ª peça? ");
-contPeca2 = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Digite o valor unitário da 2ª peça: ");
-valorPeca2 = float.Parse(Console.ReadLine());
 
 VendaPeca valores = new();
 float resultado = valores.DefinirValor(valorPeca1, valorPeca2, contPeca1, contPeca2);
